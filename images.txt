@@ -1,2 +1,2 @@
 docker.io/library/python:3.11-slim-bookworm
-docker.io/libary/node:22-alpine3.20
+docker.io/libary/node:22-alpine
