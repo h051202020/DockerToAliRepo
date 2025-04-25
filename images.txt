@@ -1,3 +1,2 @@
-lmsysorg/sglang:latest
 xprobe/xinference:latest
 ghcr.io/ggml-org/llama.cpp:server
